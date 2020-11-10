@@ -8,8 +8,6 @@
 
 PostMan Directions https://docs.google.com/presentation/d/1e_siqSAX_sv0GEBFo1dRfzPskUGjokKC_0cc4cHtmLg/edit?usp=sharing
 
-## Base url https://african-marketplace-seven.vercel.app/Market
-
 ## Back-End url https://african-marketplace-back-end.herokuapp.com
 
 ### Users
